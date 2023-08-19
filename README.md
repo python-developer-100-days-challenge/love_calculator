@@ -1,4 +1,6 @@
 # love_calculator
+https://www.buzzfeed.com/ariannarebolini/what-are-the-chances-your-crush-is-actually-your-true-love
+
 This Python script calculates a love score based on inputted names. It evaluates the occurrence of the letters in the words "true" and "love" in both names and calculates a total love score. The script then provides an interpretation of the love score to give an idea of the compatibility between the two names.
 
 # Getting Started
